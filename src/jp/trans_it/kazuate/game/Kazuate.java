@@ -1,4 +1,4 @@
-package jp.trans_it.kazuate;
+package jp.trans_it.kazuate.game;
 
 import java.util.Random;
 import java.util.Scanner;
